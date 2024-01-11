@@ -1,2 +1,2 @@
 # Auth-App-MERN-
-incomplete project  and need to add a few stuff.
+incomplete project  and need to fix some bugs.
